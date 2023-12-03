@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Coach</string>
+    <string name="app_name">DeliveryApp</string>
     <string name="close_app">Close</string>
     <string name="login">Enter</string>
     <string name="password">Password</string>
@@ -14,5 +14,5 @@
     <string name="sign_up">Sign Up!!!</string>
     <string name="sign_in_question">Do you already have an account?</string>
     <string name="sign_in">Sign In!!!</string>
-    <string name="motivational_phrase">Every pass, basket and rebound are masterful plays on the way to victory! Record each statistic as if it were the game-winning shot.</string>
+    <string name="welcome">Embark on a culinary journey with every order. Welcome to a unique gastronomic experience with our food delivery app!</string>
 </resources>

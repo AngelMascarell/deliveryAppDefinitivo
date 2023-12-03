@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.jaumelloretenriquez.coach"
+    namespace = "com.angelmascarell.deliveryApp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.jaumelloretenriquez.coach"
+        applicationId = "com.angelmascarell.deliveryApp"
         minSdk = 28
         targetSdk = 33
         versionCode = 1
